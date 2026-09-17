@@ -14,5 +14,5 @@
 | Окружение             | Windows 11 Pro, Яндекс Браузер 26.8.1.966                                                                                                                                                                                               |
 
 ### Скриншот
+<img width="1396" height="577" alt="image" src="https://github.com/user-attachments/assets/9f742ca2-d526-4c4e-a755-be0b835b231b" />
 
-[Uploading image.png…]()
