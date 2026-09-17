@@ -15,4 +15,4 @@
 
 ### Скриншот
 
-> Вставить скриншот дефекта сюда
+<img width="499" height="248" alt="image" src="https://github.com/user-attachments/assets/5ed201ee-e7d5-4b12-b72c-b2d6cb744ed3" />
